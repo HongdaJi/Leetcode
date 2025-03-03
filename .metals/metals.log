@@ -1,0 +1,331 @@
+2025.03.03 20:50:59 INFO  Started: Metals version 1.5.1 in folders 'D:\java\leetcode' for client Cursor 1.96.2.
+2025.03.03 20:50:59 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:00 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:06 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:06 INFO  running 'C:\Users\jihongda\.sdkman\candidates\java\17.0.8.1-tem\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\jihongda\AppData\Local\Temp\metals4622355004152343710\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.03.03 20:51:08 INFO  [info] welcome to sbt 1.10.8 (Eclipse Adoptium Java 17.0.8.1)
+2025.03.03 20:51:11 INFO  [info] loading settings for project hot150-build-build from metals.sbt...
+2025.03.03 20:51:11 INFO  [info] loading project definition from D:\java\leetcode\hot150\project\project
+2025.03.03 20:51:16 INFO  [info] loading settings for project hot150-build from metals.sbt...
+2025.03.03 20:51:16 INFO  [info] loading project definition from D:\java\leetcode\hot150\project
+3月 03, 2025 8:51:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:51:32 INFO  [success] Generated .bloop\hot150-build.json
+2025.03.03 20:51:32 INFO  [success] Total time: 16 s, completed 2025骞?3鏈?3鏃? 涓嬪崍8:51:32
+2025.03.03 20:51:33 INFO  [info] loading settings for project root from build.sbt...
+2025.03.03 20:51:33 INFO  [info] set current project to hot150 (in build file:/D:/java/leetcode/hot150/)
+2025.03.03 20:51:33 INFO  [success] Generated .bloop\root-test.json
+2025.03.03 20:51:33 INFO  [success] Generated .bloop\root.json
+2025.03.03 20:51:33 INFO  [success] Total time: 0 s, completed 2025骞?3鏈?3鏃? 涓嬪崍8:51:34
+2025.03.03 20:51:34 INFO  time: ran 'sbt bloopInstall' in 27s
+2025.03.03 20:51:34 INFO  Attempting to connect to the build server...
+2025.03.03 20:51:34 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:34 INFO  Found a Bloop server running
+2025.03.03 20:51:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\bsp.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\bsp.trace.json
+3月 03, 2025 8:51:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:51:38 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:39 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:44 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:45 WARN  no build target for: D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 20:51:45 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:45 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:46 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:46 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:47 WARN  no build target for: D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 20:51:47 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:47 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:48 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:49 WARN  no build target for: D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 20:51:49 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:49 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:50 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:51 WARN  no build target for: D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 20:51:51 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:51 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:52 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:53 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:53 WARN  no build target for: D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 20:51:53 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:52 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:53 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.03 20:51:55 ERROR Timeout waiting for 'build/initialize' response
+2025.03.03 20:51:55 WARN  Retrying connection to the build server Bloop
+2025.03.03 20:51:55 INFO  Found a Bloop server running
+2025.03.03 20:51:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\bsp.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\bsp.trace.json
+3月 03, 2025 8:51:56 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:52:03 INFO  time: Connected to build server in 29s
+2025.03.03 20:52:03 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.03 20:52:03 INFO  running doctor check
+2025.03.03 20:52:03 INFO  java targets: root, root-test
+3月 03, 2025 8:52:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:52:10 INFO  time: indexed workspace in 6.46s
+2025.03.03 20:52:10 INFO  compiling root (1 scala source)
+2025.03.03 20:52:11 INFO  time: compiled root in 1.19s
+2025.03.03 20:52:11 INFO  compiling root (1 scala source)
+2025.03.03 20:52:11 INFO  time: compiled root in 0.12s
+2025.03.03 20:52:19 INFO  compiling root (1 scala source)
+2025.03.03 20:52:19 INFO  time: compiled root in 0.1s
+2025.03.03 20:52:21 INFO  compiling root (1 scala source)
+2025.03.03 20:52:22 INFO  time: compiled root in 1.59s
+2025.03.03 20:53:02 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 20:53:03 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+3月 03, 2025 8:53:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:53:37 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:53:39 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:54:08 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:54:35 INFO  compiling root (1 scala source)
+2025.03.03 20:54:35 INFO  time: compiled root in 0.86s
+2025.03.03 20:54:51 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\dap-server.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+3月 03, 2025 8:54:51 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:54:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\dap-client.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.03.03 20:54:51 INFO  Starting debug proxy for [SimpleAddition]
+2025.03.03 20:54:53 INFO  Loaded expression compiler in 1 second
+3月 03, 2025 8:54:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 20:54:56 INFO  Loaded all sources and classes in 2 seconds
+2025.03.03 20:54:56 INFO  Initialized Scala 3 decoder in 2 milliseconds
+2025.03.03 20:54:56 INFO  Trying to attach to remote debuggee VM 127.0.0.1:63232 .
+2025.03.03 20:54:56 INFO  Attaching to debuggee VM succeeded.
+2025.03.03 20:54:56 INFO  Canceling debug proxy for [SimpleAddition]
+2025.03.03 20:54:56 INFO  Closing debug server tcp://0.0.0.0:63228
+3月 03, 2025 8:55:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:55:06 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:55:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:55:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:55:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:56:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:56:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:56:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:57:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:58:17 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:58:36 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:19 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:24 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 8:59:35 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: empty definition using pc, found symbol in pc:  (full report at: D:\java\leetcode\.metals\.reports\metals-full\2025-03-03\r_empty-definition_(root)_20-59-35-192.md)
+3月 03, 2025 8:59:35 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: empty definition using pc, found symbol in pc:  (full report at: D:\java\leetcode\.metals\.reports\metals-full\2025-03-03\r_empty-definition_(root)_20-59-35-192.md)
+2025.03.03 20:59:36 INFO  compiling root (1 scala source)
+2025.03.03 20:59:36 INFO  time: compiled root in 0.49s
+3月 03, 2025 9:00:25 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:01:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:01:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:01:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:02:00 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:02:17 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:02:56 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:03:03 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:03:03 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:03:15 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:03:15 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:06:36 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:06:36 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+3月 03, 2025 9:07:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:08:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:08:41 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:09:20 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:09:45 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:10:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:10:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:10:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:11:01 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:11:45 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:11:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:11:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:14:31 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:14:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:14:36 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:14:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:14:47 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:14:47 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:14:52 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:14:52 INFO  no build target found for D:\java\leetcode\hot150\build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+3月 03, 2025 9:16:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:17:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:17:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:18:14 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:18:42 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:18:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:18:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:19:34 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:20:12 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:20:27 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:20:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:21:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:38:45 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:38:45 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:39:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:39:56 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:41:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:41:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:43:04 INFO  compiling root (1 scala source)
+2025.03.03 21:43:04 INFO  time: compiled root in 0.89s
+2025.03.03 21:43:06 INFO  compiling root (1 scala source)
+2025.03.03 21:43:06 INFO  time: compiled root in 0.12s
+2025.03.03 21:43:06 WARN  Could not load snapshot text for D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 21:43:09 WARN  Could not load snapshot text for D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 21:43:09 INFO  compiling root (1 scala source)
+2025.03.03 21:43:09 INFO  time: compiled root in 0.12s
+2025.03.03 21:43:10 WARN  Could not load snapshot text for D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 21:43:15 WARN  Could not load snapshot text for D:\java\leetcode\hot150\src\main\scala\scala88.scala
+2025.03.03 21:43:16 INFO  compiling root (1 scala source)
+2025.03.03 21:43:16 INFO  time: compiled root in 0.68s
+3月 03, 2025 9:43:31 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: empty definition using pc, found symbol in pc: scala/ (full report at: D:\java\leetcode\.metals\.reports\metals-full\2025-03-03\r_empty-definition_(root)_21-43-31-253.md)
+2025.03.03 21:43:32 INFO  compiling root (1 scala source)
+2025.03.03 21:43:32 INFO  time: compiled root in 0.53s
+2025.03.03 21:45:13 INFO  compiling root (1 scala source)
+2025.03.03 21:45:13 INFO  time: compiled root in 0.66s
+2025.03.03 21:47:08 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:08 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:29 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:30 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:30 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:30 WARN  no build target for: D:\java\leetcode\hot150\src\test\scala88Test.scala
+2025.03.03 21:47:30 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:33 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:33 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:34 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:40 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:48 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:51 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:52 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:52 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:52 WARN  no build target for: D:\java\leetcode\hot150\src\test\scala88Test.scala
+2025.03.03 21:47:52 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:53 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:53 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:54 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:54 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:54 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:47:55 WARN  no build target for: D:\java\leetcode\hot150\src\test\scala88Test.scala
+2025.03.03 21:47:55 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:48:00 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:48:03 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:48:03 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.03 21:48:04 INFO  no build target found for D:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 03, 2025 9:48:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:48:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:48:10 INFO  no build target found for d:\java\leetcode\hot150\src\test\scala88Test.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 03, 2025 9:49:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:49:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:49:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:49:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:50:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:51:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:51:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:51:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:51:31 INFO  compiling root (1 scala source)
+2025.03.03 21:51:31 INFO  time: compiled root in 0.26s
+2025.03.03 21:51:37 ERROR D:\java\leetcode\hot150\src\main\scala\test.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:481)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2025.03.03 21:51:37 INFO  compiling root (1 scala source)
+2025.03.03 21:51:37 INFO  time: compiled root in 69ms
+2025.03.03 21:51:39 INFO  compiling root (1 scala source)
+2025.03.03 21:51:39 INFO  time: compiled root in 0.1s
+2025.03.03 21:51:45 INFO  compiling root (1 scala source)
+2025.03.03 21:51:45 INFO  time: compiled root in 66ms
+2025.03.03 21:51:46 INFO  compiling root (1 scala source)
+2025.03.03 21:51:46 INFO  time: compiled root in 70ms
+2025.03.03 21:51:49 INFO  compiling root (1 scala source)
+2025.03.03 21:51:49 INFO  time: compiled root in 0.41s
