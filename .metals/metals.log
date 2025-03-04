@@ -329,3 +329,323 @@ scala.meta.internal.tokenizers.package$UnexpectedInputEndException
 2025.03.03 21:51:46 INFO  time: compiled root in 70ms
 2025.03.03 21:51:49 INFO  compiling root (1 scala source)
 2025.03.03 21:51:49 INFO  time: compiled root in 0.41s
+2025.03.03 21:52:07 INFO  compiling root (1 scala source)
+2025.03.03 21:52:07 INFO  time: compiled root in 0.56s
+2025.03.03 21:52:09 INFO  compiling root (1 scala source)
+2025.03.03 21:52:09 INFO  time: compiled root in 60ms
+2025.03.03 21:52:10 INFO  compiling root (1 scala source)
+2025.03.03 21:52:10 INFO  time: compiled root in 60ms
+2025.03.03 21:52:12 INFO  compiling root (1 scala source)
+2025.03.03 21:52:12 INFO  time: compiled root in 59ms
+2025.03.03 21:52:14 INFO  compiling root (1 scala source)
+2025.03.03 21:52:14 INFO  time: compiled root in 0.65s
+3月 03, 2025 9:52:29 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:52:30 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 21:52:30 INFO  compiling root (1 scala source)
+2025.03.03 21:52:30 INFO  time: compiled root in 0.67s
+2025.03.03 21:52:30 INFO  compiling root-test (1 scala source)
+2025.03.03 21:52:30 INFO  time: compiled root-test in 0.14s
+3月 03, 2025 9:52:33 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:53:36 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:53:47 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:53:47 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:54:51 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:54:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:56:39 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 9:56:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 10:02:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 10:02:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 10:05:31 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 10:05:31 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 03, 2025 10:06:14 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.03 22:06:19 INFO  Shutting down server
+2025.03.03 22:06:19 INFO  shutting down Metals
+2025.03.03 22:06:19 INFO  Shut down connection with build server.
+2025.03.03 22:06:19 INFO  Exiting server
+2025.03.04 09:21:45 INFO  Started: Metals version 1.5.1 in folders 'D:\java\leetcode' for client Cursor 1.96.2.
+2025.03.04 09:21:46 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.04 09:21:46 INFO  Attempting to connect to the build server...
+2025.03.04 09:21:46 INFO  Found a Bloop server running
+2025.03.04 09:21:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\bsp.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.03.04 09:21:47 INFO  time: Connected to build server in 1.17s
+2025.03.04 09:21:47 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.04 09:21:47 INFO  time: Imported build in 0.11s
+2025.03.04 09:21:48 INFO  no build target found for D:\java\leetcode\hot150\src\main\scala\scala88.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.04 09:21:47 INFO  running doctor check
+2025.03.04 09:21:47 INFO  java targets: root, root-test
+2025.03.04 09:21:50 INFO  time: indexed workspace in 2.03s
+3月 04, 2025 9:23:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:27:43 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:29:23 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:32:08 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:33:14 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:33:14 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:33:18 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:34:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 14:12:49 INFO  Shutting down server
+2025.03.04 14:12:49 INFO  shutting down Metals
+2025.03.04 14:12:49 INFO  Shut down connection with build server.
+2025.03.04 14:12:49 INFO  Exiting server
+2025.03.04 21:52:16 INFO  Started: Metals version 1.5.1 in folders 'D:\java\leetcode' for client Cursor 1.96.2.
+2025.03.04 21:52:17 INFO  Attempting to connect to the build server...
+2025.03.04 21:52:17 INFO  No running Bloop server found, starting one.
+2025.03.04 21:52:19 INFO  Starting compilation server
+2025.03.04 21:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\java\leetcode\.metals\bsp.trace.json or C:\Users\jihongda\AppData\Local\scalameta\metals\cache\bsp.trace.json
+3月 04, 2025 9:52:20 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 21:52:21 INFO  time: Connected to build server in 4.32s
+2025.03.04 21:52:21 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.04 21:52:21 INFO  time: Imported build in 0.1s
+2025.03.04 21:52:21 INFO  running doctor check
+2025.03.04 21:52:21 INFO  java targets: root, root-test
+2025.03.04 21:52:23 INFO  time: indexed workspace in 2.67s
+3月 04, 2025 9:52:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 21:52:48 INFO  compiling root (2 scala sources)
+2025.03.04 21:52:52 INFO  time: compiled root in 3.37s
+2025.03.04 21:53:00 INFO  compiling root (1 scala source)
+2025.03.04 21:53:02 INFO  time: compiled root in 1.13s
+2025.03.04 21:53:04 INFO  compiling root (2 scala sources)
+2025.03.04 21:53:04 INFO  time: compiled root in 0.24s
+3月 04, 2025 9:53:17 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:53:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:53:24 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:53:53 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 21:54:34 INFO  compiling root (3 scala sources)
+2025.03.04 21:54:34 INFO  time: compiled root in 0.15s
+2025.03.04 21:54:34 INFO  compiling root (3 scala sources)
+2025.03.04 21:54:34 INFO  time: compiled root in 0.14s
+2025.03.04 21:54:37 INFO  compiling root (3 scala sources)
+2025.03.04 21:54:37 INFO  time: compiled root in 86ms
+2025.03.04 21:54:55 INFO  Report absolute-path: ### java.nio.file.NoSuchFileException: d:\java\leetcode\hot150\src\main\scala\Solution221.scala
+
+Uri: file:///d%3A/java/leetcode/hot150/src/main/scala/Solution221.scala
+
+
+#### Error stacktrace:
+
+```
+java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:96)
+	java.base/sun.nio.fs.WindowsLinkSupport.getRealPath(WindowsLinkSupport.java:258)
+	java.base/sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:933)
+	java.base/sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:42)
+	scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.dealias(ScalametaCommonEnrichments.scala:364)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:132)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:757)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:310)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:319)
+	scala.meta.internal.metals.WorkspaceLspService.didSave(WorkspaceLspService.scala:431)
+	scala.meta.metals.lsp.DelegatingScalaService.didSave(DelegatingScalaService.scala:53)
+	java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+```
+
+3月 04, 2025 9:54:55 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didSave",
+  "params": {
+    "textDocument": {
+      "uri": "file:///d%3A/java/leetcode/hot150/src/main/scala/Solution221.scala"
+    }
+  }
+}
+java.lang.IllegalStateException: An unexpected exception occurred while executing jsonrpc method public abstract java.util.concurrent.CompletableFuture scala.meta.metals.lsp.TextDocumentService.didSave(org.eclipse.lsp4j.DidSaveTextDocumentParams)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:73)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.file.NoSuchFileException: d:\java\leetcode\hot150\src\main\scala\Solution221.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$1(MetalsLspService.scala:921)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$1$adapted(MetalsLspService.scala:920)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.MetalsLspService.onChange(MetalsLspService.scala:920)
+	at scala.meta.internal.metals.MetalsLspService.didSave(MetalsLspService.scala:874)
+	at scala.meta.internal.metals.WorkspaceLspService.didSave(WorkspaceLspService.scala:431)
+	at scala.meta.metals.lsp.DelegatingScalaService.didSave(DelegatingScalaService.scala:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	... 11 more
+
+2025.03.04 21:54:55 INFO  compiling root (2 scala sources)
+2025.03.04 21:54:55 INFO  time: compiled root in 0.11s
+2025.03.04 21:55:20 INFO  compiling root (2 scala sources)
+2025.03.04 21:55:20 INFO  time: compiled root in 76ms
+2025.03.04 21:55:35 INFO  compiling root (2 scala sources)
+2025.03.04 21:55:35 INFO  time: compiled root in 81ms
+3月 04, 2025 9:56:08 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:56:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:56:33 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: expected identifier; obtained lbrace (full report at: D:\java\leetcode\.metals\.reports\metals\2025-03-04\r_scala-toplevel-mtags_21-56-33-652.md)
+2025.03.04 21:56:33 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:33 INFO  time: compiled root in 84ms
+2025.03.04 21:56:37 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:37 INFO  time: compiled root in 78ms
+2025.03.04 21:56:42 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:42 INFO  time: compiled root in 71ms
+2025.03.04 21:56:43 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:43 INFO  time: compiled root in 71ms
+2025.03.04 21:56:46 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:46 INFO  time: compiled root in 75ms
+3月 04, 2025 9:56:54 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 333
+2025.03.04 21:56:54 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:54 INFO  time: compiled root in 0.43s
+2025.03.04 21:56:59 INFO  compiling root (2 scala sources)
+2025.03.04 21:56:59 INFO  time: compiled root in 85ms
+2025.03.04 21:57:03 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:03 INFO  time: compiled root in 73ms
+2025.03.04 21:57:06 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:06 INFO  time: compiled root in 80ms
+2025.03.04 21:57:13 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:13 INFO  time: compiled root in 0.21s
+2025.03.04 21:57:15 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:15 INFO  time: compiled root in 0.2s
+2025.03.04 21:57:22 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:22 INFO  time: compiled root in 0.16s
+3月 04, 2025 9:57:30 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:57:31 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 21:57:33 INFO  compiling root (2 scala sources)
+2025.03.04 21:57:33 INFO  time: compiled root in 0.15s
+3月 04, 2025 9:57:42 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: empty definition using pc, found symbol in pc:  (full report at: D:\java\leetcode\.metals\.reports\metals-full\2025-03-04\r_empty-definition_(root)_21-57-42-961.md)
+3月 04, 2025 9:57:43 下午 scala.meta.internal.metals.StdReporter $anonfun$create$1
+严重: empty definition using pc, found symbol in pc:  (full report at: D:\java\leetcode\.metals\.reports\metals-full\2025-03-04\r_empty-definition_(root)_21-57-42-961.md)
+2025.03.04 21:58:04 INFO  compiling root (2 scala sources)
+2025.03.04 21:58:04 INFO  time: compiled root in 0.14s
+2025.03.04 21:58:55 INFO  compiling root (2 scala sources)
+2025.03.04 21:58:55 INFO  time: compiled root in 0.17s
+2025.03.04 21:58:59 INFO  compiling root (2 scala sources)
+2025.03.04 21:58:59 INFO  time: compiled root in 0.14s
+3月 04, 2025 9:59:01 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 28,
+      "uri": "file:///d%3A/java/leetcode/hot150/src/main/scala/scala221.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\r\nobject Solution {\r\n  def maximalSquare(matrix: Array[Array[Char]]): Int \u003d {\r\n    if (matrix.isEmpty || matrix(0).isEmpty) 0\r\n    else {\r\n      val x \u003d matrix.length\r\n      val y \u003d matrix(0).length\r\n      val maxSide \u003d math.max(x, y)\r\n      \r\n      // 使用find来查找第一个满足条件的边长，然后计算面积\r\n      (maxSide to 1 by -1).find { side \u003d\u003e\r\n        (0 to x - side).exists { i \u003d\u003e\r\n          (0 to y - side).exists { j \u003d\u003e\r\n            (for {\r\n              k \u003c- i until i + side\r\n              l \u003c- j until j + side\r\n            } yield matrix(k)(l)).forall(_ \u003d\u003d \u00271\u0027)\r\n          }\r\n        }\r\n      }.map(side \u003d\u003e side * side).getOrElse(0)\r\n    }\r\n  }\r\n}"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..634]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:105)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:45)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:45)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:80)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:320)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:276)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:275)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:275)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:240)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:153)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:848)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:208)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:417)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:46)
+	at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2025.03.04 21:59:02 INFO  compiling root (2 scala sources)
+2025.03.04 21:59:02 INFO  time: compiled root in 0.83s
+3月 04, 2025 9:59:14 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 04, 2025 9:59:37 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.04 21:59:41 INFO  compiling root (1 scala source)
+2025.03.04 21:59:41 INFO  time: compiled root in 0.78s

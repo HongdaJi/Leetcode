@@ -1,6 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 
-object Solution {
+object Scala88 {
   def merge(nums1: Array[Int], m: Int, nums2: Array[Int], n: Int): Unit = {
     // 将nums2的元素复制到nums1的后半部分
     for (i <- 0 until n) {
@@ -26,14 +26,4 @@ object Solution {
       nums1(i) = 0
     }
   }
-}
-
-object Main extends App {
-  val nums1 = Array(1, 2, 3, 0, 0, 0)
-  val m = 3
-  val nums2 = Array(2, 5, 6)
-  val n = 3
-
-  Solution.merge(nums1, m, nums2, n)
-  println(nums1.mkString(", "))
 }
